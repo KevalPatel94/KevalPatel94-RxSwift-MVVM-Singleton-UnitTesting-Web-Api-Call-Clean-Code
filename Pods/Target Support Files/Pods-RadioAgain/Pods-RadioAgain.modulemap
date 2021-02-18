@@ -1,0 +1,6 @@
+framework module Pods_RadioAgain {
+  umbrella header "Pods-RadioAgain-umbrella.h"
+
+  export *
+  module * { export * }
+}
